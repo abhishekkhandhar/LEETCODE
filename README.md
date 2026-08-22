@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhishekkhandhar/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [1140-stone-game-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 ## Number Theory
 |  |
 | ------- |
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
