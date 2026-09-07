@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [1140-stone-game-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1386-cinema-seat-allocation) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0035-search-insert-position) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
