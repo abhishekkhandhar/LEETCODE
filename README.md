@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [0835-image-overlap](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1872-stone-game-viii) |
@@ -258,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/abhishekkhandhar/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
