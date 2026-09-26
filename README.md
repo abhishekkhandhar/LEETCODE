@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0041-first-missing-positive](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0041-first-missing-positive) |
 | [1386-cinema-seat-allocation](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishekkhandhar/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0835-image-overlap](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1140-stone-game-ii) |
