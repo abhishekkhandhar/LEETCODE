@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0088-merge-sorted-array](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0835-image-overlap](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1140-stone-game-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0940-distinct-subsequences-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1510-stone-game-iv) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0045-jump-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/abhishekkhandhar/LEETCODE/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
