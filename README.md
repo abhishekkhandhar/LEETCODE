@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0047-permutations-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
 |  |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0835-image-overlap](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhishekkhandhar/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
