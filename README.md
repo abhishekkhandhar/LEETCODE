@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0047-permutations-ii) |
+| [0054-spiral-matrix](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0835-image-overlap](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1140-stone-game-ii) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0054-spiral-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0835-image-overlap](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhishekkhandhar/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Breadth-First Search
