@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0301-remove-invalid-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
