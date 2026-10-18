@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0060-permutation-sequence) |
 | [1140-stone-game-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1872-stone-game-viii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0060-permutation-sequence) |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
