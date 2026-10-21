@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0062-unique-paths) |
 | [0940-distinct-subsequences-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1510-stone-game-iv) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0062-unique-paths) |
 | [1140-stone-game-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1872-stone-game-viii) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Stack
 |  |
