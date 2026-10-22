@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Binary Search
 |  |
 | ------- |
