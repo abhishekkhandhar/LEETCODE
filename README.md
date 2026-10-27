@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0067-add-binary) |
 | [0301-remove-invalid-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0709-to-lower-case) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0067-add-binary) |
 | [1140-stone-game-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1872-stone-game-viii) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |
