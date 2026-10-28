@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0068-text-justification) |
 | [0301-remove-invalid-parentheses](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0709-to-lower-case) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0057-insert-interval) |
+| [0068-text-justification](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0835-image-overlap](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1140-stone-game-ii) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0068-text-justification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |
