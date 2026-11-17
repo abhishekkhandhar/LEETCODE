@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/abhishekkhandhar/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/abhishekkhandhar/LEETCODE/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/abhishekkhandhar/LEETCODE/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/abhishekkhandhar/LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/abhishekkhandhar/LEETCODE/tree/master/0344-reverse-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/abhishekkhandhar/LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/abhishekkhandhar/LEETCODE/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/abhishekkhandhar/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/abhishekkhandhar/LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/abhishekkhandhar/LEETCODE/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
 |  |
